@@ -7,6 +7,9 @@ the basic idea is the following:
 3. apply some gaussian filters to smooth the results
 4. average all the matrices together 
 5. plot them in a 3d surface with some adequate color scheme
+6. implement the perlin noise algorithm 
+7. test performance of both 
+8. develop and test some filters 
 
 __some example of the generated maps__
 
