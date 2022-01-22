@@ -23,7 +23,7 @@ __some of the generated maps__
 
 __perlin texture__
 
-![perlin](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/perlin_structure.png)
+![perlin](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/perlin%20structure.png)
 
 # Transfer of morphological information from real-world maps to procedurally genetrated ones
 
@@ -47,4 +47,4 @@ __map after style transfer__
 
 __the image from which the style was pulled, my home town of Sondrio__
 
-![before](https://github.com/fmerizzi/making_noise/blob/master/images/file_transfer_noise/before.png)
+![before](https://github.com/fmerizzi/making_noise/blob/master/images/file_transfer_noise/original.png)
