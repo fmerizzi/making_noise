@@ -17,7 +17,7 @@ __some of the generated maps__
 
 ![map3](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/Figure%208.png)
 
-![map3](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/Figure%208.png)
+![map3](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/Figure%2018(1).png)
 
 ![map3](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/Figure%2014.png)
 
