@@ -47,8 +47,8 @@ __the image from which the style was pulled, my home town of Sondrio__
 
 ![before](https://github.com/fmerizzi/making_noise/blob/master/images/file_transfer_noise/original.png)
 
-__with and without aliasing__
-
 ![another](https://github.com/fmerizzi/making_noise/blob/master/images/file_transfer_noise/another.png)
+
+__without anti-aliasing__
 
 ![another](https://github.com/fmerizzi/making_noise/blob/master/images/file_transfer_noise/not_anti_aliased.png)
