@@ -2,8 +2,8 @@
 In this repo I explore some methodologies for procedural map making using noise, and I attempt the use of style transfer for terrain features. 
 
 ## file list
-- making_noise.ipynb, implementing the procedural map making using noise 
-- style-transfer-of-terrain-morphological-structure.ipynb, implementing the style transfer for terrain features 
+- __making_noise.ipynb__, implementing the procedural map making using noise 
+- __style-transfer-of-terrain-morphological-structure.ipynb__, implementing the style transfer for terrain features 
 
 ## project goals 
 1. generate noise matrices using numpy 
@@ -16,6 +16,7 @@ In this repo I explore some methodologies for procedural map making using noise,
 8. develop and test some other filters 
 9. experiment with the techniques above to produce some different type of terrain/textures 
 
+## results 
 __some of the generated maps__
 
 ![map2](https://github.com/fmerizzi/making_noise/blob/master/images/simple_noise/Figure%2018.png)
